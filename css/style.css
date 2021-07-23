@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/*---------------------- carousel css-------------- */
+.carousel-bg
+{
+    background: rgb(75, 165, 187);
+    
+    
+}
+
+/* .cow-image{
+    height: 400px;
+    width: 700px;
+} */
+
+.cow-rate
+{
+    color:red;
+}
+.banner-padding
+{
+    padding-top:100px;
+    padding-bottom: 100px;
+}
